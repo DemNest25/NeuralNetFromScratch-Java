@@ -25,4 +25,3 @@ Incluye el algoritmo de **backpropagation**, optimización con **SGD**, y funcio
 - Estructura de modelo (Sequential).
 - Entrenamiento con backpropagation.
 
-## 📂 Estructura del proyecto
